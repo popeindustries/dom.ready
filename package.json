@@ -1,7 +1,7 @@
 {
 	"name": "dom.ready",
 	"description": "Cross-browser implementation of DOMContentLoaded event handling",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"author": "popeindustries <alex@pope-industries.com>, thomaslein <thomaslein@gmail.com>",
 	"dependencies": {
 	},
